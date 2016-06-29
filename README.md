@@ -7,7 +7,7 @@ This is some terrible CSV export to Wordpress
 
 Links:
 
-- [Home](http://sacramusic.com)
+- [Sacramusic](http://sacramusic.com)
 
 ---
 
